@@ -1,4 +1,4 @@
-#Galaxy Login Page
+# 🌌 Galaxy Login Page
 
 ## Description
 A modern **Galaxy-Themed Login Page** built with **HTML5**, **CSS3**, and **Vanilla JavaScript**.  
@@ -52,6 +52,5 @@ Inspired by modern UI trends such as **Glassmorphism** and **Animated Background
 ---
 
 ## 🙌 Author
-Crafted by **𝕮𝖊𝖓𝖙𝖆𝖚𝖗𝖚𝖘
-**  
+Crafted by 𝕮𝖊𝖓𝖙𝖆𝖚𝖗𝖚𝖘
 You’re free to modify, improve, and use it for your own projects!
